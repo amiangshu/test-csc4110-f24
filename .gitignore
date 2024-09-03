@@ -1,0 +1,5 @@
+]*.class
+*.exe
+/ignore.java
+/.DS_STORE
+/.Rhistory
