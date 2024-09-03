@@ -1,7 +1,7 @@
 # test-csc4110-f24
 Testing  class
 
-Author: Amiangshu Bosu
+Author: Amiangshu Bosu (abosu@wayne.edu)
 License: MIT
 
 Here are some random blah blah
